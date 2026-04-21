@@ -1,0 +1,5 @@
+Tools:
+mcaselector2.7
+mcedit2beta
+nbtexplorer2.8.0
+worldpainter2.26.1
